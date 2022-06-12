@@ -8,6 +8,3 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-#### Why Create This?
-
-For my Mom.
