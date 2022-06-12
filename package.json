@@ -1,5 +1,5 @@
 {
-  "name": "fernfolio-11ty-template",
+  "name": "nami-site-11ty-template",
   "version": "1.0.0",
   "description": "The super simple portfolio template built with Eleventy and Netlify CMS",
   "scripts": {
@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tylerMRoderick/fernfolio-11ty-template"
+    "url": "https://github.com/RoryGeum/nami-site"
   },
   "author": {
-    "name": "Tyler M. Roderick",
-    "email": "troderick@protonmail.com",
-    "url": "https://www.tylerroderick.com/"
+    "name": "Rory O'Donnell",
+    "email": "rory.google@outlook.com",
+    "url": ""
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tylerMRoderick/fernfolio-11ty-template/issues"
+    "url": "https://github.com/RoryGeum/nami-site/issues"
   },
-  "homepage": "https://github.com/tylerMRoderick/fernfolio-11ty-template",
+  "homepage": "https://github.com/RoryGeum/nami-site",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
     "luxon": "^1.25.0",
